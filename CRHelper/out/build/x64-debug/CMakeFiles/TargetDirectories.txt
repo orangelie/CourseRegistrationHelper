@@ -1,0 +1,5 @@
+C:/Users/parksangwo/Desktop/Github/CourseRegistrationHelper/CRHelper/out/build/x64-debug/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/CourseRegistrationHelper/CRHelper/out/build/x64-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/parksangwo/Desktop/Github/CourseRegistrationHelper/CRHelper/out/build/x64-debug/CRHelper/CMakeFiles/CRHelper.dir
+C:/Users/parksangwo/Desktop/Github/CourseRegistrationHelper/CRHelper/out/build/x64-debug/CRHelper/CMakeFiles/edit_cache.dir
+C:/Users/parksangwo/Desktop/Github/CourseRegistrationHelper/CRHelper/out/build/x64-debug/CRHelper/CMakeFiles/rebuild_cache.dir
